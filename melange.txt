@@ -1,0 +1,275 @@
+﻿#EXTINF:-1, Al Hilal Sudan
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21408
+
+Sudan TV
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21396
+
+Al Mala3ib TV Sudan
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21397
+
+3oud Palestine
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21497
+
+#EXTINF:-1,FUNOON
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21866
+
+#EXTINF:-1,MBC
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21486
+
+#EXTINF:-1,MBC HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21496
+
+#EXTINF:-1,MBC 2
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21485
+
+#EXTINF:-1,MBC 2 HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21495
+
+#EXTINF:-1,MBC 3
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21484
+
+#EXTINF:-1,MBC 3 HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21494
+
+#EXTINF:-1,MBC 4
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21483
+
+#EXTINF:-1,MBC 4 HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21493
+
+#EXTINF:-1,MBC MAX 
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21477
+
+#EXTINF:-1,MBC MAX HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21492
+
+#EXTINF:-1,MBC ACTION
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21482
+
+#EXTINF:-1,MBC ACTION HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21489
+
+#EXTINF:-1,MBC VARIETY
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21490
+
+#EXTINF:-1,MBC DRAMA
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21480
+
+#EXTINF:-1,MBC DRAMA HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21488
+
+#EXTINF:-1,MBC DRAMA
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21491
+
+#EXTINF:-1,MBC MSER
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21479
+
+#EXTINF:-1,MBC MSER 2
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21478
+
+#EXTINF:-1,MBC BOLLYWOOD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21481
+
+#EXTINF:-1,MBC BOLLYWOOD HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21487
+
+#EXTINF:-1,ROTANA AFLAM
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21476
+
+#EXTINF:-1,FOX LIFE
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/17007
+
+#EXTINF:-1,FOX FAMILY
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/17008
+
+#EXTINF:-1,FOX CRIME
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/17009
+
+#EXTINF:-1,FOX ACTION MOVIES
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/17010
+
+#EXTINF:-1,BEIN SPORT 1
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21443
+
+#EXTINF:-1,BEIN SPORT 1 HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21457
+
+#EXTINF:-1,BEIN SPORT 2 
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21442
+
+#EXTINF:-1,BEIN SPORT 2 HD
+http://echootv.tv:2086/petra_vdLiha/MrecckQS/21456
+
+#EXTINF:-1,DUBAI ONE
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1,DUBAI ZAMAN
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1,DUBAI
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1,SAMA DUBAI
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,MTV
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b3225000.m3u8
+
+#EXTINF:0,FUTURE
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+
+#EXTINF:0,AD ALOULA HD
+http://adtv.ercdn.net/adaloula/adaloula_720p.m3u8
+
+#EXTINF:0,AD DRAMA HD
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+
+#EXTINF:-1,ALKASS 1 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1,ALKASS 2 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1,ALKASS 3 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1,ALKASS 4 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1,ALKASS 5 HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1,AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1,Dubai Sports 1 HD
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+
+#EXTINF:-1,Dubai Sports 2 HD
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b2000000.m3u8
+
+#EXTINF:1,Dubai Sports 3 HD
+http://dmiftvll.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1750000.m3u8
+
+#EXTINF:1,Sharjah Sports HD
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/playlist.m3u8
+
+#EXTINF:-1,ALJAZEERA 
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index2073.m3u8
+
+#EXTINF:-1,ALARABIYA
+http://live.alarabiya.net/alarabiya/myStream_720p/chunklist.m3u8
+
+#EXTINF:-1,SKY NEWS
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+
+#EXTINF:0,SHARJAH HD
+http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
+
+#EXTINF:0,DW
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_2_av-b.m3u8
+
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8
+
+#EXTINF:0,ALAAN
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_b800000_t64NTc2cA==.m3u8
+
+#EXTINF:0,ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+
+#EXTINF:-1,عدنان ولينا: الحلقة 01
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-18/studioDGHXE.smil/media_b704482_6.m3u
+
+#EXTINF:-1,عدنان ولينا: الحلقة 02
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-19/studioRAFCV.smil/media_b666678_4.m3u
+
+#EXTINF:-1,عدنان ولينا: الحلقة 03
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-20/studioDDDYJ.smil/media_b743743_5.m3u
+
+#EXTINF:-1,عدنان ولينا: الحلقة 04
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-21/studioBDKNA.smil/media_b638621_6.m3u
+
+#EXTINF:-1,عدنان ولينا: الحلقة 05
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2018-05-22/studioMODDR.smil/media_b556787_5.m3u
+
+#EXTINF:-1,حول العالم مع سبع المدهش: الحلقة 01
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-07/studioEPVZT.smil/media_b579371_28.m3u
+
+#EXTINF:-1,حول العالم مع سبع المدهش: الحلقة 02
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-08/studioGUIRT.smil/media_b628605_6.m3u
+
+#EXTINF:-1,حول العالم مع سبع المدهش: الحلقة 03
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-09/studioKWXVN.smil/media_b659062_7.m3u
+
+#EXTINF:-1,حول العالم مع سبع المدهش: الحلقة 04
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-10/studioUGUBV.smil/media_b587266_7.m3u
+
+#EXTINF:-1,حول العالم مع سبع المدهش: الحلقة 05
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-11/studioGMGMA.smil/media_b603227_6.m3u
+
+#EXTINF:-1,العيال كبرت
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm4vids/2016-12-17/studioLMMPA.smil/media_b639667_6.m3u
+
+#EXTINF:-1,مدرسة المشاغبين
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-06-17/studioWWSXQ.smil/media_b489883_9.m3u
+
+#EXTINF:-1,Hotel Transylvania
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-26/livejoCPd.smil/media_b1655456_19.m3u
+
+#EXTINF:-1,Transformers Age Of Extinction
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-25/livecByxE.smil/media_b1658835_139.m3u
+
+#EXTINF:-1,Maze Runner
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-25/live1a38I.smil/media_b1652340_43.m3u
+
+#EXTINF:-1,The Baytown Outlaws
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-25/liveo5f47.smil/media_b1655745_8.m3u
+
+#EXTINF:-1,Minority Report
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-29/liveDUha6.smil/media_b1658618_97.m3u
+
+#EXTINF:-1,Cloudy With A Chance Of Meatballs
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-31/live2pdiv.smil/media_b1651847_156.m3u
+
+#EXTINF:-1,I Spy
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-01/liveRaxN8.smil/media_b1655707_10.m3u
+
+#EXTINF:-1,Imitation Game
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-10-31/liven3cpC.smil/media_b1648446_107.m3u
+
+#EXTINF:-1,X-Men
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-02/liveeG96H.smil/media_b1643761_26.m3u
+
+#EXTINF:-1,The Green Hornet
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-04/liveyBpUk.smil/media_b1656317_17.m3u
+
+#EXTINF:-1,The Internship
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-03/liveJK9au.smil/media_b1651335_36.m3u
+
+#EXTINF:-1,Shrek Forever After
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-03/live3J6vx.smil/media_b1651622_6.m3u
+
+#EXTINF:-1,Night At The Museum
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-08/liveE05wu.smil/media_b1653825_28.m3u
+
+#EXTINF:-1,Alice In Wonderland
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-08/liveZ9JOM.smil/media_b1653094_22.m3u
+
+#EXTINF:-1,Escape To Witch Mountain
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-10/liveaCx73.smil/media_b1657708_35.m3u
+
+#EXTINF:-1,Into The Woods
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-11/liveyYl5C.smil/media_b1656165_37.m3u
+
+#EXTINF:-1,Mr.And Mrs.Smith
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-11/liveC7V4j.smil/media_b1650854_6.m3u
+
+#EXTINF:-1,Planet Of The Apes
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-11/liveN8aqf.smil/media_b1655758_9.m3u
+
+#EXTINF:-1,Tomorrowland
+http://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2018-11-13/livevtsun.smil/media_b1654411_13.m3u
