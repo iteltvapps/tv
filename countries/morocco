@@ -1,102 +1,103 @@
 [
   {
-    "name": "الأولى",
-    "logo": "dBWFaah",
-    "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-    "agent": ""
+    "channels": [
+      {
+        "name": "الأولى",
+        "logo": "dBWFaah",
+        "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "دوزام",
+        "logo": "fzyiFoW",
+        "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "العييون",
+        "logo": "dBWFaah",
+        "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "الرياضية",
+        "logo": "HrvbVB2",
+        "link": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "الرابعة",
+        "logo": "k11zZbT",
+        "link": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "المغربية",
+        "logo": "SdeiuEL",
+        "link": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "السادسة",
+        "logo": "r0OfkRE",
+        "link": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "الأمازيغية",
+        "logo": "tJLUMDa",
+        "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "ميدي 1",
+        "logo": "4zomsrO",
+        "link": "",
+        "agent": ""
+      },
+      {
+        "name": "شدى",
+        "logo": "Whph7Th",
+        "link": "https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "تيلي ماروك",
+        "logo": "NA7Agqb",
+        "link": "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "ماروك 24",
+        "logo": "bvtjWTm",
+        "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8",
+        "agent": ""
+      },
+      {
+        "name": "الأنس",
+        "logo": "25WYAU2",
+        "link": "http://51.159.21.231:2052/live/pro2arab@aradr/ghh@GT@jjGYpipi/2539.m3u8",
+        "agent": ""
+      }
+    ]
   },
   {
-    "name": "دوزام",
-    "logo": "fzyiFoW",
-    "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "العييون",
-    "logo": "dBWFaah",
-    "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "الرياضية",
-    "logo": "HrvbVB2",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "الرابعة",
-    "logo": "k11zZbT",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "المغربية",
-    "logo": "SdeiuEL",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "السادسة",
-    "logo": "r0OfkRE",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "الأمازيغية",
-    "logo": "tJLUMDa",
-    "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "ميدي 1",
-    "logo": "4zomsrO",
-    "link": "",
-    "agent": ""
-  },
-  {
-    "name": "شدى",
-    "logo": "Whph7Th",
-    "link": "https://edge7.vedge.infomaniak.com/livecast/chadatv/manifest.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "تيلي ماروك",
-    "logo": "NA7Agqb",
-    "link": "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "ماروك 24",
-    "logo": "bvtjWTm",
-    "link": "https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8",
-    "agent": ""
-  },
-  {
-    "name": "الأنس",
-    "logo": "25WYAU2",
-    "link": "http://51.159.21.231:2052/live/pro2arab@aradr/ghh@GT@jjGYpipi/2539.m3u8",
-    "agent": ""
-  },
-  [
-  {
-  "name": "قنوات مغربية",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
-  "link":"https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
-  "agent":""
-  },
-  {
-  
-  "name": "قنوات جزائرية",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png",
-  "link":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png",
-  "agent":""
-  },
-  {
-  
-  "name": "قنوات تونسية",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
-  "link":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
-  "agent":""
+    "apps": [
+      {
+        "name": "قنوات مغربية",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+      },
+      {
+        "name": "قنوات جزائرية",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png"
+      },
+      {
+        "name": "قنوات تونسية",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
+        "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"
+      }
+    ]
   }
-  ]
 ]
