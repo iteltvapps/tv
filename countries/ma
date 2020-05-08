@@ -12,7 +12,7 @@
     "agent": ""
   },
   {
-    "name": "العييون",
+    "name": "العيون",
     "logo": "dBWFaah",
     "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8",
     "agent": ""
@@ -20,25 +20,25 @@
   {
     "name": "الرياضية",
     "logo": "HrvbVB2",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
+    "link": "https://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8",
     "agent": ""
   },
   {
     "name": "الرابعة",
     "logo": "k11zZbT",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+    "link": "https://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
     "agent": ""
   },
   {
     "name": "المغربية",
     "logo": "SdeiuEL",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
+    "link": "https://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8",
     "agent": ""
   },
   {
     "name": "السادسة",
     "logo": "r0OfkRE",
-    "link": "http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
+    "link": "https://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8",
     "agent": ""
   },
   {
@@ -62,7 +62,7 @@
   {
     "name": "تيلي ماروك",
     "logo": "NA7Agqb",
-    "link": "http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8",
+    "link": "https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8",
     "agent": ""
   },
   {
@@ -74,7 +74,7 @@
   {
     "name": "الأنس",
     "logo": "25WYAU2",
-    "link": "http://51.159.21.231:2052/live/pro2arab@aradr/ghh@GT@jjGYpipi/2539.m3u8",
+    "link": "https://51.159.21.231:2052/live/pro2arab@aradr/ghh@GT@jjGYpipi/2539.m3u8",
     "agent": ""
   }
 ]
