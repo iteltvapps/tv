@@ -1,127 +1,127 @@
 [
   {
-    "name": "قنوات beIn",
+    "name": "beIn",
     "logo": "Di9lTQl",
     "link": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
     "agent": ""
   },
   {
-    "name": "قنوات OSN",
+    "name": "OSN",
     "logo": "TJboDfc",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات MBC",
+    "name": "MBC",
     "logo": "W0zRjpf",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات مغربية",
+    "name": "المغرب",
     "logo": "MbJqmyN",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات جزائرية",
+    "name": "الجزائر",
     "logo": "X7uKc9g",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات تونسية",
+    "name": "تونس",
     "logo": "iTklXl7",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات ليبية",
+    "name": "ليبيا",
     "logo": "ulLN4VK",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات مصرية",
+    "name": "مصر",
     "logo": "wcLXDGG",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات سودانية",
+    "name": "السودان",
     "logo": "SQ3QL4u",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات إماراتية",
+    "name": "الإمارات",
     "logo": "T9c9pPl",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات سعودية",
+    "name": "السعودية",
     "logo": "OjryMkW",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
 
   {
-    "name": "قنوات قطرية",
+    "name": "قطر",
     "logo": "vHwSgTN",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات فلسطينية",
+    "name": "فلسطين",
     "logo": "8sPHZe0",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات سورية",
+    "name": "سوريا",
     "logo": "GZs3qI0",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات عراقية",
+    "name": "العراق",
     "logo": "Ylacviu",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات كويتية",
+    "name": "الكويت",
     "logo": "XPZFzEa",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات لبنانية",
+    "name": "لبنان",
     "logo": "YqhPIqd",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات عمانية",
+    "name": "عمان",
     "logo": "2XtpX07",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات بحرينية",
+    "name": "البحرين",
     "logo": "li4jy5v",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات أردنية",
+    "name": "الأردن",
     "logo": "A6DmFev",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
   },
   {
-    "name": "قنوات يمنية",
+    "name": "اليمن",
     "logo": "QM4qZjT",
     "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
     "agent": ""
